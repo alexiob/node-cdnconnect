@@ -1,0 +1,5 @@
+.git*
+.DS_Store
+support/
+test/
+node_modules/

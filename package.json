@@ -1,0 +1,30 @@
+{
+  "name": "node-cdnconnect",
+  "version": "0.1.0",
+  "description": "CDNConnect.com API client.",
+  "main": "./lib/cdnconnect.js",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexiob/node-cdnconnect"
+  },
+  "bugs": {
+    "url": "https://github.com/alexiob/node-cdnconnect/issues"
+  },
+  "dependencies": {
+    "request": ">=2.21.0",
+  },
+  "keywords": [
+    "cdn",
+    "api"
+  ],
+  "author": {
+     "name": "Alessandro Iob",
+     "email": "alessandro.iob@gmail.com"
+  }
+}
