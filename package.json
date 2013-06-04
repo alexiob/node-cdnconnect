@@ -17,7 +17,7 @@
     "url": "https://github.com/alexiob/node-cdnconnect/issues"
   },
   "dependencies": {
-    "request": ">=2.21.0",
+    "request": ">=2.21.0"
   },
   "keywords": [
     "cdn",
