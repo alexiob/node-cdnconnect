@@ -3,3 +3,4 @@
 support/
 test/
 node_modules/
+npm-debug.log
