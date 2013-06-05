@@ -1,6 +1,6 @@
 {
   "name": "node-cdnconnect",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CDNConnect.com API client.",
   "main": "./lib/cdnconnect.js",
   "engines": {
